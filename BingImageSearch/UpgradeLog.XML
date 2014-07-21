@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="BingImageSearch">
+</Property><Property Name="Solution File" Value="E:\My Cpp Projects\BingImageSearch\BingImageSearch.sln">
+</Property><Property Name="User Options File" Value="E:\My Cpp Projects\BingImageSearch\BingImageSearch.suo">
+</Property><Property Name="Date" Value="2010年12月12日">
+</Property><Property Name="Time" Value="0:36">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="BingImageSearch.sln" Description="File successfully backed up as E:\My Cpp Projects\BingImageSearch\Backup\BingImageSearch.sln">
+</Event><Event ErrorLevel="0" Project="" Source="BingImageSearch.suo" Description="File successfully backed up as E:\My Cpp Projects\BingImageSearch\Backup\BingImageSearch.suo">
+</Event><Event ErrorLevel="0" Project="BingImageSearch" Source="BingImageSearch\BingImageSearch.csproj" Description="Project file successfully backed up as E:\My Cpp Projects\BingImageSearch\Backup\BingImageSearch\BingImageSearch.csproj">
+</Event><Event ErrorLevel="0" Project="BingImageSearch" Source="BingImageSearch\Form1.cs" Description="File successfully backed up as E:\My Cpp Projects\BingImageSearch\Backup\BingImageSearch\Form1.cs">
+</Event><Event ErrorLevel="0" Project="BingImageSearch" Source="BingImageSearch\Form1.Designer.cs" Description="File successfully backed up as E:\My Cpp Projects\BingImageSearch\Backup\BingImageSearch\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BingImageSearch" Source="BingImageSearch\Program.cs" Description="File successfully backed up as E:\My Cpp Projects\BingImageSearch\Backup\BingImageSearch\Program.cs">
+</Event><Event ErrorLevel="0" Project="BingImageSearch" Source="BingImageSearch\Properties\AssemblyInfo.cs" Description="File successfully backed up as E:\My Cpp Projects\BingImageSearch\Backup\BingImageSearch\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="BingImageSearch" Source="BingImageSearch\Properties\Resources.Designer.cs" Description="File successfully backed up as E:\My Cpp Projects\BingImageSearch\Backup\BingImageSearch\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BingImageSearch" Source="BingImageSearch\Properties\Settings.Designer.cs" Description="File successfully backed up as E:\My Cpp Projects\BingImageSearch\Backup\BingImageSearch\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BingImageSearch" Source="BingImageSearch\Web References\net.bing.api\Reference.cs" Description="File successfully backed up as E:\My Cpp Projects\BingImageSearch\Backup\BingImageSearch\Web References\net.bing.api\Reference.cs">
+</Event><Event ErrorLevel="0" Project="BingImageSearch" Source="BingImageSearch\app.config" Description="File successfully backed up as E:\My Cpp Projects\BingImageSearch\Backup\BingImageSearch\app.config">
+</Event><Event ErrorLevel="0" Project="BingImageSearch" Source="BingImageSearch\Properties\Settings.settings" Description="File successfully backed up as E:\My Cpp Projects\BingImageSearch\Backup\BingImageSearch\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="BingImageSearch" Source="BingImageSearch\Web References\net.bing.api\Reference.map" Description="File successfully backed up as E:\My Cpp Projects\BingImageSearch\Backup\BingImageSearch\Web References\net.bing.api\Reference.map">
+</Event><Event ErrorLevel="0" Project="BingImageSearch" Source="BingImageSearch\Web References\net.bing.api\search.wsdl" Description="File successfully backed up as E:\My Cpp Projects\BingImageSearch\Backup\BingImageSearch\Web References\net.bing.api\search.wsdl">
+</Event><Event ErrorLevel="0" Project="BingImageSearch" Source="BingImageSearch\Web References\net.bing.api\SearchResponse.datasource" Description="File successfully backed up as E:\My Cpp Projects\BingImageSearch\Backup\BingImageSearch\Web References\net.bing.api\SearchResponse.datasource">
+</Event><Event ErrorLevel="0" Project="BingImageSearch" Source="BingImageSearch\Form1.resx" Description="File successfully backed up as E:\My Cpp Projects\BingImageSearch\Backup\BingImageSearch\Form1.resx">
+</Event><Event ErrorLevel="0" Project="BingImageSearch" Source="BingImageSearch\Properties\Resources.resx" Description="File successfully backed up as E:\My Cpp Projects\BingImageSearch\Backup\BingImageSearch\Properties\Resources.resx">
+</Event><Event ErrorLevel="1" Project="BingImageSearch" Source="BingImageSearch\BingImageSearch.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="BingImageSearch" Source="BingImageSearch\BingImageSearch.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BingImageSearch" Source="BingImageSearch\BingImageSearch.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="BingImageSearch.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="BingImageSearch.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BingImageSearch" Source="BingImageSearch\BingImageSearch.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

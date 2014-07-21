@@ -1,0 +1,13 @@
+E:\My Cpp Projects\AIADemo\AIADemo\bin\Debug\AIADemo.exe
+E:\My Cpp Projects\AIADemo\AIADemo\bin\Debug\AIADemo.pdb
+E:\My Cpp Projects\AIADemo\AIADemo\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\My Cpp Projects\AIADemo\AIADemo\obj\x86\Debug\AIADemo.Form1.resources
+E:\My Cpp Projects\AIADemo\AIADemo\obj\x86\Debug\AIADemo.Properties.Resources.resources
+E:\My Cpp Projects\AIADemo\AIADemo\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\My Cpp Projects\AIADemo\AIADemo\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\My Cpp Projects\AIADemo\AIADemo\obj\x86\Debug\AIADemo.exe
+E:\My Cpp Projects\AIADemo\AIADemo\obj\x86\Debug\AIADemo.pdb
+E:\My Cpp Projects\AIADemo\AIADemo\bin\Debug\AIADemo.exe.config
+E:\My Cpp Projects\AIADemo\bin\Debug\AIADemo.exe.config
+E:\My Cpp Projects\AIADemo\obj\x86\Debug\AIADemo.exe
+E:\My Cpp Projects\AIADemo\obj\x86\Debug\AIADemo.pdb
